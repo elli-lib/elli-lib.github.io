@@ -1,0 +1,30 @@
+## elli-lib
+
+*Community-curated [elli][] libraries.*
+
+
+### Libraries
+
+$for(projects)$
+- [$projects.name$]
+  *$projects.description$*
+
+  [![$projects.name$ on hex.pm][$projects.name$ hex badge]][$projects.name$ hex package]
+  [![$projects.name$ build status][$projects.name$ travis badge]][$projects.name$ builds]
+  [![$projects.name$ license][$projects.name$ license badge]][$projects.name$ LICENSE]
+
+$endfor$
+
+
+<!-- Named Links -->
+
+[elli]: https://github.com/elli-lib/elli
+$for(projects)$
+[$projects.name$]: https://github.com/elli-lib/$projects.name$
+[$projects.name$ hex badge]: https://img.shields.io/hexpm/v/$projects.name$.svg
+[$projects.name$ hex package]: https://hex.pm/packages/$projects.name$
+[$projects.name$ travis builds]: https://travis-ci.org/elli-lib/$projects.name$
+[$projects.name$ travis badge]: https://travis-ci.org/elli-lib/$projects.name$.svg
+[$projects.name$ license badge]: https://img.shields.io/hexpm/l/$projects.name$.svg
+[$projects.name$ LICENSE]: https://github.com/elli-lib/$projects.name$
+$endfor$

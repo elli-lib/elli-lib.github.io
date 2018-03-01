@@ -1,0 +1,17 @@
+---
+projects:
+- name: elli_cookie
+  description: HTTP Cookie utility
+- name: elli_date
+  description: Middleware adding the "Date" header
+- name: elli_json
+  description: Middleware to encode response bodies as JSON
+- name: elli_otter
+  description: OpenTracing instrumentation
+- name: elli_prometheus
+  description: Middleware for collecting stats via Prometheus
+- name: elli_websocket
+  description: WebSocket Handler
+- name: opencensus_elli
+  description: OpenCensus instrumentation
+...
