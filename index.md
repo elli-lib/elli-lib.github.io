@@ -9,49 +9,49 @@
   *HTTP Cookie utility*
 
   [![elli_cookie on hex.pm][elli_cookie hex badge]][elli_cookie hex package]
-  [![elli_cookie build status][elli_cookie travis badge]][elli_cookie builds]
+  [![elli_cookie build status][elli_cookie travis badge]][elli_cookie travis builds]
   [![elli_cookie license][elli_cookie license badge]][elli_cookie LICENSE]
 
 - [elli_date]
   *Middleware adding the "Date" header*
 
   [![elli_date on hex.pm][elli_date hex badge]][elli_date hex package]
-  [![elli_date build status][elli_date travis badge]][elli_date builds]
+  [![elli_date build status][elli_date travis badge]][elli_date travis builds]
   [![elli_date license][elli_date license badge]][elli_date LICENSE]
 
 - [elli_json]
   *Middleware to encode response bodies as JSON*
 
   [![elli_json on hex.pm][elli_json hex badge]][elli_json hex package]
-  [![elli_json build status][elli_json travis badge]][elli_json builds]
+  [![elli_json build status][elli_json travis badge]][elli_json travis builds]
   [![elli_json license][elli_json license badge]][elli_json LICENSE]
 
 - [elli_otter]
   *OpenTracing instrumentation*
 
   [![elli_otter on hex.pm][elli_otter hex badge]][elli_otter hex package]
-  [![elli_otter build status][elli_otter travis badge]][elli_otter builds]
+  [![elli_otter build status][elli_otter travis badge]][elli_otter travis builds]
   [![elli_otter license][elli_otter license badge]][elli_otter LICENSE]
 
 - [elli_prometheus]
   *Middleware for collecting stats via Prometheus*
 
   [![elli_prometheus on hex.pm][elli_prometheus hex badge]][elli_prometheus hex package]
-  [![elli_prometheus build status][elli_prometheus travis badge]][elli_prometheus builds]
+  [![elli_prometheus build status][elli_prometheus travis badge]][elli_prometheus travis builds]
   [![elli_prometheus license][elli_prometheus license badge]][elli_prometheus LICENSE]
 
 - [elli_websocket]
   *WebSocket Handler*
 
   [![elli_websocket on hex.pm][elli_websocket hex badge]][elli_websocket hex package]
-  [![elli_websocket build status][elli_websocket travis badge]][elli_websocket builds]
+  [![elli_websocket build status][elli_websocket travis badge]][elli_websocket travis builds]
   [![elli_websocket license][elli_websocket license badge]][elli_websocket LICENSE]
 
 - [opencensus_elli]
   *OpenCensus instrumentation*
 
   [![opencensus_elli on hex.pm][opencensus_elli hex badge]][opencensus_elli hex package]
-  [![opencensus_elli build status][opencensus_elli travis badge]][opencensus_elli builds]
+  [![opencensus_elli build status][opencensus_elli travis badge]][opencensus_elli travis builds]
   [![opencensus_elli license][opencensus_elli license badge]][opencensus_elli LICENSE]
 
 
