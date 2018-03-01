@@ -65,46 +65,46 @@
 [elli_cookie travis builds]: https://travis-ci.org/elli-lib/elli_cookie
 [elli_cookie travis badge]: https://travis-ci.org/elli-lib/elli_cookie.svg
 [elli_cookie license badge]: https://img.shields.io/hexpm/l/elli_cookie.svg
-[elli_cookie LICENSE]: https://github.com/elli-lib/elli_cookie
+[elli_cookie LICENSE]: https://github.com/elli-lib/elli_cookie/blob/master/LICENSE
 [elli_date]: https://github.com/elli-lib/elli_date
 [elli_date hex badge]: https://img.shields.io/hexpm/v/elli_date.svg
 [elli_date hex package]: https://hex.pm/packages/elli_date
 [elli_date travis builds]: https://travis-ci.org/elli-lib/elli_date
 [elli_date travis badge]: https://travis-ci.org/elli-lib/elli_date.svg
 [elli_date license badge]: https://img.shields.io/hexpm/l/elli_date.svg
-[elli_date LICENSE]: https://github.com/elli-lib/elli_date
+[elli_date LICENSE]: https://github.com/elli-lib/elli_date/blob/master/LICENSE
 [elli_json]: https://github.com/elli-lib/elli_json
 [elli_json hex badge]: https://img.shields.io/hexpm/v/elli_json.svg
 [elli_json hex package]: https://hex.pm/packages/elli_json
 [elli_json travis builds]: https://travis-ci.org/elli-lib/elli_json
 [elli_json travis badge]: https://travis-ci.org/elli-lib/elli_json.svg
 [elli_json license badge]: https://img.shields.io/hexpm/l/elli_json.svg
-[elli_json LICENSE]: https://github.com/elli-lib/elli_json
+[elli_json LICENSE]: https://github.com/elli-lib/elli_json/blob/master/LICENSE
 [elli_otter]: https://github.com/elli-lib/elli_otter
 [elli_otter hex badge]: https://img.shields.io/hexpm/v/elli_otter.svg
 [elli_otter hex package]: https://hex.pm/packages/elli_otter
 [elli_otter travis builds]: https://travis-ci.org/elli-lib/elli_otter
 [elli_otter travis badge]: https://travis-ci.org/elli-lib/elli_otter.svg
 [elli_otter license badge]: https://img.shields.io/hexpm/l/elli_otter.svg
-[elli_otter LICENSE]: https://github.com/elli-lib/elli_otter
+[elli_otter LICENSE]: https://github.com/elli-lib/elli_otter/blob/master/LICENSE
 [elli_prometheus]: https://github.com/elli-lib/elli_prometheus
 [elli_prometheus hex badge]: https://img.shields.io/hexpm/v/elli_prometheus.svg
 [elli_prometheus hex package]: https://hex.pm/packages/elli_prometheus
 [elli_prometheus travis builds]: https://travis-ci.org/elli-lib/elli_prometheus
 [elli_prometheus travis badge]: https://travis-ci.org/elli-lib/elli_prometheus.svg
 [elli_prometheus license badge]: https://img.shields.io/hexpm/l/elli_prometheus.svg
-[elli_prometheus LICENSE]: https://github.com/elli-lib/elli_prometheus
+[elli_prometheus LICENSE]: https://github.com/elli-lib/elli_prometheus/blob/master/LICENSE
 [elli_websocket]: https://github.com/elli-lib/elli_websocket
 [elli_websocket hex badge]: https://img.shields.io/hexpm/v/elli_websocket.svg
 [elli_websocket hex package]: https://hex.pm/packages/elli_websocket
 [elli_websocket travis builds]: https://travis-ci.org/elli-lib/elli_websocket
 [elli_websocket travis badge]: https://travis-ci.org/elli-lib/elli_websocket.svg
 [elli_websocket license badge]: https://img.shields.io/hexpm/l/elli_websocket.svg
-[elli_websocket LICENSE]: https://github.com/elli-lib/elli_websocket
+[elli_websocket LICENSE]: https://github.com/elli-lib/elli_websocket/blob/master/LICENSE
 [opencensus_elli]: https://github.com/elli-lib/opencensus_elli
 [opencensus_elli hex badge]: https://img.shields.io/hexpm/v/opencensus_elli.svg
 [opencensus_elli hex package]: https://hex.pm/packages/opencensus_elli
 [opencensus_elli travis builds]: https://travis-ci.org/elli-lib/opencensus_elli
 [opencensus_elli travis badge]: https://travis-ci.org/elli-lib/opencensus_elli.svg
 [opencensus_elli license badge]: https://img.shields.io/hexpm/l/opencensus_elli.svg
-[opencensus_elli LICENSE]: https://github.com/elli-lib/opencensus_elli
+[opencensus_elli LICENSE]: https://github.com/elli-lib/opencensus_elli/blob/master/LICENSE
